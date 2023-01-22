@@ -1,2 +1,2 @@
-let msg = 'Git it awesome';
+let msg = 'Git is awesome!!';
 console.log(msg);
